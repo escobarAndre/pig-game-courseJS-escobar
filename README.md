@@ -1,4 +1,4 @@
-In this stage of the course, we created the PIG GAME game, based on the following steps:
+In this stage of the course, we created the PIG GAME, based on the following steps:
 
 - Rolling the Dice
 - Switching the Active PLayer
